@@ -1,0 +1,50 @@
+
+
+.SSMS{
+	background-color:beige;
+	font-size:30px;
+	height:10%;
+	width:100%;
+	text-align:right;
+	margin-top:0;
+
+}
+
+.QuarantineFilms{
+	background-color:pink;
+	font-size:30px;
+	height :10%;
+	width:100%;
+	text-align:right;
+	margin-top:0;
+}
+
+.Theframe{
+	margin:40;
+	background-color:lightblue;
+	width:50%;
+	height:50%;
+
+}
+
+.Inspiration{
+	background-color:yellow;
+	width:1000px;
+	height:100px;
+
+}
+
+.TheActors{
+	font-style: bold;
+	background-color: purple;
+	width:100px;
+	height:100px;
+	margin:20;
+}
+
+img{
+	background-color: blue
+	width:100px;
+	height:100px;
+	margin:20px;
+}
