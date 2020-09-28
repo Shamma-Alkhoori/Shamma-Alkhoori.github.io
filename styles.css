@@ -1,50 +1,259 @@
+#centered {
+	width: 1000px;
+	margin: 0 auto;
+	height: 40px;
+}
 
-
-.SSMS{
-	background-color:beige;
-	font-size:30px;
-	height:10%;
-	width:100%;
-	text-align:right;
-	margin-top:0;
+.bars {
+	border: 1px black solid;
 
 }
 
-.QuarantineFilms{
-	background-color:pink;
-	font-size:30px;
-	height :10%;
-	width:100%;
-	text-align:right;
-	margin-top:0;
+
+#top-bar{
+	width : 750px;
+	height: 100px;
+	float:left;
 }
 
-.Theframe{
-	margin:40;
-	background-color:lightblue;
-	width:50%;
-	height:50%;
+#arrow1 {
+	width: 40px;
+	height: 40px;
+	margin-left: 700px;
+	margin-top: 60px;
 
 }
 
-.Inspiration{
-	background-color:yellow;
-	width:1000px;
+#arrow2 {
+	width: 40px;
+	height: 40px;
+	margin-left: 950px;
+	margin-top: 30px;
+}
+
+#arrow3{
+	width: 40px;
+	height: 40px;
+	margin-left: 950px;
+	margin-top: -10px;
+
+}
+
+#project-title {
+	float : left;
+	width : 200px;
+	height: 50px;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	font-family: cursive;
+}
+
+#script-title {
+	width:200px;
+	height:50px;
+	position:relative;
+	top : 50px;
+	left : 752px;
+	font-family: cursive;
+}
+
+#script {
+	position: relative;
+	top:-100px;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+
+}
+
+.clear {
+	clear:both;
+}
+
+#vid{
+	float: left;
+	width:600px;
+	margin-top: 80px;
+	height: 400px;
+}
+
+.side-by-side {
+	float: left;
+}
+
+#actors {
+	float: left;
+	width: 300px;
+	height: 50px;
+	margin-left: 50px;
+	margin-top: 80px;
+}
+
+#actors-info{
+		font-weight: bold;
+		text-align: center;
+		font-size: 20px;
+		font-family: cursive;
+
+}
+
+.circles{
+	border: 1px black solid;
+	width: 170px;
+	height: 170px;
+	border-radius: 50%;
+
+}
+
+#actor-1 {
+	margin-left: 30px;
+	margin-top: 10px;
+}
+
+#actor-2 {
+	margin-left: 30px;
+
+}
+
+#actor-3{
+	float: right;
+	margin-top: -342px;
+	margin-right: -20px;
+}
+
+#actor-4{
+	float: right;
+	margin-top: -171px;
+	margin-right: -20px;
+}
+
+#description{
+	width: 1000px;
+	height: 140px;
+	margin-top: 40px;
+
+}
+
+#para {
+	text-align: center;
+
+}
+
+#actor-1-top-bar{
+	margin-bottom: 30px;
+	width: 1000px;
 	height:100px;
+}
+
+#page-1{
+	margin-top: 30px;
+	width: 500px;
+	height: 500px;
+	float: left;
+}
+
+#profile{
+	float: right;
+	width: 500px;
+	height: 500px;
+	position: relative;
+	left: 30px;
+	margin-top: -500px;
 
 }
 
-.TheActors{
-	font-style: bold;
-	background-color: purple;
-	width:100px;
-	height:100px;
-	margin:20;
+#users-input{
+	width: 410px;
+	height: 80px;
+	text-align: center;
+
 }
 
-img{
-	background-color: blue
-	width:100px;
-	height:100px;
-	margin:20px;
+#user-1-input {
+	width: 410px;
+	height: 250px;
+	text-align: center
+
+}
+
+#comment{
+	width: 510px;
+	height: 80px;
+	margin-top: 60px;
+	text-align: center;
+
+}
+
+#comment-1 {
+	width: 510px;
+	height: 300px;
+	text-align: center;
+
+}
+
+#vid-part {
+	width: 380px;
+	height: 80px;
+	text-align: center;
+	margin-left: 30px;
+}
+
+#vid-part-1{
+	width: 380px;
+	height: 200px;
+	text-align: center;
+	margin-left: 30px;
+
+}
+
+#upload {
+	width: 380px;
+	height: 80px;
+	text-align: center;
+	margin-left: 30px;
+	margin-top: 50px;
+
+}
+
+#upload-1{
+	width: 380px;
+	height: 200px;
+	text-align: center;
+	margin-left: 30px;
+
+}
+
+#info {
+	margin-top: 50px;
+	width: 380px;
+	height: 108px;
+	margin-left: 30px;
+}
+
+#arrow6{
+	width:40px;
+	height: 40px;
+}
+
+#vid-1{
+	width: 407px;
+	height: 120px;
+
+}
+
+#vid-2{
+	width: 200px;
+	height: 120px;
+
+}
+
+#vid-3 {
+	width: 197px;
+	height: 120px;
+
+}
+
+#lastpage{
+	margin-top: 60px;
 }
