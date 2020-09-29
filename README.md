@@ -1,2 +1,6 @@
 # Shamma-Alkhoori.github.io
-My personal website 
+My fisrt personal website
+Project Name: S.S.M.S
+Project Description: The project is a website implementaion of students experience of creating their first mini-quaratine films. The website is supposed to showcase a sense of connectivity to people across the globe.It is also meant to show how teenagers can get creative with the lowest resources ever. The experience I was striving to give is for people to feel affiliated even if they are miles apart.
+Process: I started implementing it by previewing the mini-story we had created in a very short time. The purpose was to show that our hearts are all connected togther and thats by transceding a piece of clothes that is shared among the actors. Moving on, I wanted the readers to get an overview on the actors charcters briefly. Fianally, I incorporated other videos to show that everyone is welcome to share their ideas and that it is needed. The comment section was meant for people to interact and share their perspectives. 
+Reflection/Evaluation: I believe that I did try my best to work it through from the wirefram draft,however after the experience, I learned that the way websited work are pretty different. I would have loved to create like diffrent stories from each movie to show their uniquiness and how wach individual is specail in their own way of thining. Also, I would of have wanted to work more on the styles to make it grab peoples attenion. 
