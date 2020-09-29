@@ -6,7 +6,9 @@
 
 body {
 	/* background-color: #f4e1d2; */
-	background-color:#e0b868;
+	 background-color:#e0b868;
+	 /* background-color: #F2E3BA; */
+
 }
 
 .bars {
@@ -156,6 +158,7 @@ li a:hover {
 	height: 450px;
 	margin-top: 40px;
 	margin-left: 65px;
+	padding:50px;
 }
 
 #img2{
@@ -164,6 +167,7 @@ li a:hover {
 	height: 500px;
 	margin-top: 40px;
 	margin-left: 65px;
+	padding:50px;
 }
 
 #img3{
@@ -172,6 +176,7 @@ li a:hover {
 	height: 500px;
 	margin-top: 40px;
 	margin-left: 65px;
+	padding:50px;
 }
 
 #img4{
@@ -180,6 +185,7 @@ li a:hover {
 	height: 500px;
 	margin-top: 40px;
 	margin-left: 65px;
+	padding:50px;
 }
 
 #profile{
